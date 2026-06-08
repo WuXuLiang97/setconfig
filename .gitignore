@@ -1,0 +1,31 @@
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python 自动化项目
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.venv/
+venv/
+build/
+
+# 日志、临时文件
+logs/
+log/
+*.log
+temp/
+tmp/
+
+# 测试报告、输出文件
+report/
+output/
+result/
+
+# 系统文件
+.DS_Store
+Thumbs.db
